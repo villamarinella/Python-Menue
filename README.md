@@ -29,3 +29,7 @@ readme.MD
 
 Have fun
 Klaus Werner
+
+PS: the foto and the video starts and stops with a button you have to connect to the GPIO.
+It shows a preview until you press the button and it stops if you press the button again.
+The preview  will not work headless.
